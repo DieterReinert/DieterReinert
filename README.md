@@ -1,6 +1,6 @@
 ### Dieter Reinert
 
-I'm a full stack .Net Developer (ASP.Net Core 5, Typescript, React, HTML/CSS, ...).
+I'm a Full Stack .Net Developer (ASP.Net Core 5, Typescript, React, HTML/CSS, ...).
 
 ### Books I'm reading 📚
 + Clean Code in C# 🧹
