@@ -1,4 +1,4 @@
-### Dieter Reinert
+### Dieter Reinert 👋
 
 I'm a Full Stack .Net Developer (ASP.Net Core 5, Typescript, React, HTML/CSS, ...).
 
