@@ -1,8 +1,6 @@
 ### Dieter Reinert
 
-I'm a full stack .Net Developer (ASP.Net Core 5, Typescript, React, HTML/CSS, ...).  
-Welcome to my profile! 😃  
-Most of projects are private or on different platforms but I plan on changing that.
+I'm a full stack .Net Developer (ASP.Net Core 5, Typescript, React, HTML/CSS, ...).
 
 ### Books I'm reading 📚
 + Clean Code in C# 🧹
