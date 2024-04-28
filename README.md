@@ -16,4 +16,4 @@ Let’s discuss how tailored software solutions can propel your business forward
 
 - 📱 **Phone:** +32 492 04 38 10
 - 📧 **E-mail:** [contact@dieterreinert.com](mailto:contact@dieterreinert)
-- 🕸 **Website:** [www.dieterreinert.com](http://www.dieterreinert.com)
+- 🕸 **Website:** [dieterreinert.com](http://dieterreinert.com)
