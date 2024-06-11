@@ -1,5 +1,5 @@
 ### About Me
-Hello! I'm Dieter, a passionate Python developer specializing in ERP (Enterprise Resource Planning) solutions. At Rezolv, my work revolves around utilizing Python to enhance and streamline business processes, helping companies navigate their digital transformation journey. I thrive on tackling complex challenges and continuously evolving my skills to contribute effectively to my team and clients.
+Hello! I'm Dieter, a passionate Python engineer specializing in ERP (Enterprise Resource Planning) solutions. At Rezolv, my work revolves around utilizing Python to enhance and streamline business processes, helping companies navigate their digital transformation journey. I thrive on tackling complex challenges and continuously evolving my skills to contribute effectively to my team and clients.
 
 ### My Expertise
 - **Python Development:** Building and optimizing ERP solutions to improve business efficiency.
