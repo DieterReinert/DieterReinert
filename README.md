@@ -1,19 +1,26 @@
-### About Me
-Hello! I'm Dieter, a passionate Python engineer specializing in ERP (Enterprise Resource Planning) solutions. At Rezolv, my work revolves around utilizing Python to enhance and streamline business processes, helping companies navigate their digital transformation journey. I thrive on tackling complex challenges and continuously evolving my skills to contribute effectively to my team and clients.
+# Building with Clarity
 
-### My Expertise
-- **Python Development:** Building and optimizing ERP solutions to improve business efficiency.
-- **System Architecture:** Designing scalable and sustainable architectures tailored for ERP systems.
-- **Continuous Learning:** Engaging constantly with the latest industry practices and coding standards.
+I've always been drawn to the intersection of engineering and business operations. The right software doesn’t just automate—it transforms. 
 
-### I'm Currently Reading 📚
-- *Clean Code* by Robert C. Martin - Improving the clarity and maintainability of my code.
-- *Refactoring* by Martin Fowler - Enhancing and optimizing ERP system architectures.
-- *The Pragmatic Programmer* by Andrew Hunt and David Thomas - Developing more practical and effective programming approaches.
+At Rezolv, I focus on building and optimizing ERP systems with Python. Enterprise software tends to accumulate complexity, but my approach is to cut through that, designing scalable, maintainable, and effective solutions. A good system should work for its users, not the other way around.
 
-### Connect With Me
-Let’s discuss how tailored software solutions can propel your business forward. Reach out via:
+## Craft and Focus
 
-- 📱 **Phone:** +32 492 04 38 10
-- 📧 **E-mail:** [contact@dieterreinert.com](mailto:contact@dieterreinert)
-- 🕸 **Website:** [dieterreinert.com](http://dieterreinert.com)
+The best work happens when you keep things simple first, then make them powerful. My work revolves around:
+
+- **Python Development:** Writing clean, maintainable code to optimize business processes.
+- **System Architecture:** Structuring ERP solutions that scale effectively.
+- **Continuous Learning:** Staying ahead of industry best practices and refining my craft.
+
+### Currently reading:
+- *Clean Code* by Robert C. Martin – Writing code that lasts.
+- *Refactoring* by Martin Fowler – Improving systems without adding unnecessary complexity.
+- *The Pragmatic Programmer* by Andrew Hunt and David Thomas – Sharpening problem-solving instincts.
+
+## Connect
+
+If you’re interested in how software can make business operations seamless, let’s talk.
+
+📱 **+32 492 04 38 10**  
+📧 **[contact@dieterreinert.com](mailto:contact@dieterreinert)**  
+🕸 **[dieterreinert.com](http://dieterreinert.com)**
