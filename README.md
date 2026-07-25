@@ -1,26 +1,25 @@
-# Building with Clarity
+# Building with clarity
 
-I've always been drawn to the intersection of engineering and business operations. The right software doesn’t just automate—it transforms. 
+I like software that sits between engineering and how a company actually runs. At Rezolv I build and tighten ERP systems in Python. Enterprise software piles on complexity by default. I try to strip that back so the system serves the people using it.
 
-At Rezolv, I focus on building and optimizing ERP systems with Python. Enterprise software tends to accumulate complexity, but my approach is to cut through that, designing scalable, maintainable, and effective solutions. A good system should work for its users, not the other way around.
+## Craft and focus
 
-## Craft and Focus
+Start simple. Make it powerful later. Most of my time goes into:
 
-The best work happens when you keep things simple first, then make them powerful. My work revolves around:
+- **Python.** Clean code that makes business processes less painful.
+- **ERP architecture.** Structures that still make sense when the company grows.
+- **Learning.** Reading, rewriting, getting sharper at the parts that matter.
 
-- **Python Development:** Writing clean, maintainable code to optimize business processes.
-- **System Architecture:** Structuring ERP solutions that scale effectively.
-- **Continuous Learning:** Staying ahead of industry best practices and refining my craft.
+### Currently reading
 
-### Currently reading:
-- *Clean Code* by Robert C. Martin – Writing code that lasts.
-- *Refactoring* by Martin Fowler – Improving systems without adding unnecessary complexity.
-- *The Pragmatic Programmer* by Andrew Hunt and David Thomas – Sharpening problem-solving instincts.
+- *Clean Code* by Robert C. Martin. Code you can still live with in a year.
+- *Refactoring* by Martin Fowler. Changing systems without making them worse.
+- *The Pragmatic Programmer* by Andrew Hunt and David Thomas. Better instincts when things get messy.
 
 ## Connect
 
-If you’re interested in how software can make business operations seamless, let’s talk.
+If you care about software that makes operations less of a slog, say hello.
 
-📱 **+32 492 04 38 10**  
-📧 **[contact@dieterreinert.com](mailto:contact@dieterreinert)**  
-🕸 **[dieterreinert.com](http://dieterreinert.com)**
++32 492 04 38 10  
+[contact@dieterreinert.com](mailto:contact@dieterreinert.com)  
+[dieterreinert.com](https://dieterreinert.com)
