@@ -10,4 +10,4 @@ My work includes ERP architecture, custom business logic, integrations, data mig
 
 I start with the business process and work through how the system implements it. I prefer explicit business rules, clear module boundaries, and changes the next engineer can understand.
 
-[Website](https://dieterreinert.com/) · [LinkedIn](https://www.linkedin.com/in/dieterreinert/) · [Email](mailto:contact@dieterreinert.com)****
+[Website](https://dieterreinert.com/) · [LinkedIn](https://www.linkedin.com/in/dieterreinert/) · [Email](mailto:contact@dieterreinert.com)
